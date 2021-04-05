@@ -13,6 +13,6 @@ There are 2 dices. Everytime 'Roll the dice' button is pressed there will be dif
 ![d4](https://user-images.githubusercontent.com/36920057/113582203-e3967700-9649-11eb-981d-ccbf459f98e6.png)
 
 # Installation
-Download apk zip file from here :[app-release.zip](https://github.com/mkjim456/dice_game_app/files/6258513/app-release.zip)
+Download apk zip file from here : [app-release.zip](https://github.com/mkjim456/dice_game_app/files/6258513/app-release.zip)
 
 Unzip the file and install apk.
